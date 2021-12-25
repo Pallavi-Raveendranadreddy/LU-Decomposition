@@ -72,7 +72,7 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](.\s2.png)
+![image](https://github.com/Pallavi-Raveendranadreddy/LU-Decomposition/blob/d967d816c4cd1dff6397600590f4d56d232340ec/s2.PNG)
 
 
 ## Result:
