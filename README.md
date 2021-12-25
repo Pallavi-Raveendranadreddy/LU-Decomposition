@@ -32,7 +32,7 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition](.\s1.png)
+![lu decomposition](.\s1.png)https://github.com/Pallavi-Raveendranadreddy/LU-Decomposition/blob/37b6cf6518808b95919040457a2614afa1032f36/s1.PNG
 
 
 ## Result:
