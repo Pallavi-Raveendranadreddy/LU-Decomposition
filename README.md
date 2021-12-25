@@ -32,7 +32,7 @@ print(U)
 ```
 
 ## Output:
-https://github.com/Pallavi-Raveendranadreddy/LU-Decomposition/blob/b7b231dfa86d407156731782e47b0b267e108e1d/s1.PNG
+![image](https://github.com/Pallavi-Raveendranadreddy/LU-Decomposition/blob/b7b231dfa86d407156731782e47b0b267e108e1d/s1.PNG)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
